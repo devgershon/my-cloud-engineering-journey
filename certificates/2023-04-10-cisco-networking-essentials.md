@@ -2,7 +2,7 @@
 
 **Issued:** 10 April 2023  
 **Provider:** Cisco Networking Academy  
-**Credential:** Certificate of Course Completion (Student Level)
+**Credential:** [https://www.credly.com/badges/e79553ae-aa45-4781-b9a9-d101fb360111/public_url]
 
 ---
 
