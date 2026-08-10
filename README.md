@@ -18,7 +18,7 @@ This repository is separate from project-specific work. It tracks **certificates
 | Date       | Certificate                                      | Status      | Link / Notes |
 |------------|--------------------------------------------------|-------------|--------------|
 | 2022-06-18 | AWS Academy Graduate – AWS Academy Cloud Foundations | Completed   | [Credly](https://www.credly.com/go/64j307d3) · 20 hours |
-| 2023-04-10 | Cisco Networking Academy – Networking Essentials | Completed   | Certificate of Course Completion |
+| 2023-04-10 | Cisco Networking Academy – Networking Essentials | Completed   | [Credly] (https://www.credly.com/badges/e79553ae-aa45-4781-b9a9-d101fb360111/public_url) · Certificate of Course Completion |
 
 → Full details in [`certificates/`](./certificates/)
 
