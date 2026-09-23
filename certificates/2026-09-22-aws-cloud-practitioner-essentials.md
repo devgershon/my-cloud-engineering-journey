@@ -3,7 +3,7 @@
 **Issued:** 22 September 2026  
 **Provider:** AWS Training & Certification  
 **Type:** Course Completion Certificate  
-**Skill Builder:** [Course link](https://skillbuilder.aws/37a5215d-5be8-46f9-8c5a-f7c2db6cc7b2)
+**Skill Builder:** [Course link](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
 
 ---
 
