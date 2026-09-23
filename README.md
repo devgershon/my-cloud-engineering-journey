@@ -7,18 +7,19 @@ This repository is separate from project-specific work. It tracks **certificates
 ---
 
 ## 🎯 Current Focus
-- Building strong foundations in cloud + networking
+- Strengthening AWS foundational knowledge
 - Hands-on portfolio projects (static sites, serverless, containers, production VPC)
-- Targeting Cloud Engineering roles focused on modern architecture and security
+- Targeting Cloud / Platform Engineering roles focused on modern architecture and security
 
 ---
 
 ## 📜 Certificates
 
-| Date       | Certificate                                      | Status      | Link / Notes |
-|------------|--------------------------------------------------|-------------|--------------|
+| Date       | Certificate                                      | Status      | Notes |
+|------------|--------------------------------------------------|-------------|-------|
 | 2022-06-18 | AWS Academy Graduate – AWS Academy Cloud Foundations | Completed   | [Credly](https://www.credly.com/go/64j307d3) · 20 hours |
-| 2023-04-10 | Cisco Networking Academy – Networking Essentials | Completed   | [Credly](https://www.credly.com/badges/e79553ae-aa45-4781-b9a9-d101fb360111/public_url) · Certificate of Course Completion |
+| 2023-04-10 | Cisco Networking Academy – Networking Essentials | Completed   | Certificate of Course Completion |
+| 2026-09-22 | AWS Cloud Practitioner Essentials                | Completed   | AWS Training & Certification |
 
 → Full details in [`certificates/`](./certificates/)
 
@@ -27,19 +28,18 @@ This repository is separate from project-specific work. It tracks **certificates
 ## 🛠️ Skills Acquired
 
 **From AWS Academy Cloud Foundations**
-- AWS Architecture
-- AWS Cloud
-- AWS Core Services
-- AWS Pricing
-- AWS Support
+- AWS Architecture, AWS Cloud, AWS Core Services, AWS Pricing, AWS Support
 
 **From Cisco Networking Essentials**
-- Network fundamentals & Internet connectivity
-- IP addressing
-- TCP/IP suite
-- Small network design & wireless configuration
-- Basic network security
-- Network troubleshooting
+- Network fundamentals, IP addressing, TCP/IP, small network design, basic security, troubleshooting
+
+**From AWS Cloud Practitioner Essentials**
+- Cloud concepts & Shared Responsibility Model
+- Compute (EC2, Lambda, containers overview)
+- Networking (VPC, subnets, security groups, NACLs)
+- Storage (S3, EBS, EFS) and Databases (RDS, NoSQL overview)
+- Security, monitoring, pricing, migration strategies
+- Introduction to the Well-Architected Framework
 
 → Detailed notes in [`skills/`](./skills/)
 
@@ -47,10 +47,9 @@ This repository is separate from project-specific work. It tracks **certificates
 
 ## 📓 Journal
 
-Chronological learning logs and reflections live in [`journal/`](./journal/).
-
 - [001 – First Steps (AWS Academy Cloud Foundations)](./journal/001-first-steps.md)
 - [002 – Networking Essentials (Cisco)](./journal/002-networking-essentials.md)
+- [003 – AWS Cloud Practitioner Essentials](./journal/003-aws-cloud-practitioner-essentials.md)
 
 ---
 
@@ -58,9 +57,9 @@ Chronological learning logs and reflections live in [`journal/`](./journal/).
 
 - [x] Complete AWS Academy Cloud Foundations
 - [x] Complete Cisco Networking Essentials
-- [ ] AWS Cloud Practitioner (or equivalent foundational cert)
+- [x] Complete AWS Cloud Practitioner Essentials
 - [ ] Hands-on portfolio projects (Static site → Serverless API → Containers → Production VPC)
-- [ ] Intermediate certifications (Solutions Architect, etc.)
+- [ ] Intermediate certifications (e.g. Solutions Architect Associate)
 - [ ] Specialize deeper in Cloud Architecture + Security (and consulting)
 
 ---
@@ -74,4 +73,4 @@ Chronological learning logs and reflections live in [`journal/`](./journal/).
 
 ---
 
-*Started: June 2022 · Last updated: August 2026*
+*Started: June 2022 · Last updated: September 2026*
